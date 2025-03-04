@@ -1,0 +1,33 @@
+Nơi nào có (sự tồn tại) của cái gì ...
+（+）Place+	に+Ｎ+が+あります。
+（-）Place+に+Ｎ+が+ありません。
+(?)　Place+に+Ｎ+が+ありますか？
+⇒はい，あります。
+⇒いいえ，ありません。
+Bonus:Place+に+なにが+ありますか？
+Nối danh từ =と
+に：Xác định sự tồn tại của đồ vật
+が：Xác định tân ngữ của động từ có sở hữu
+*Khác với :-đi lại di chuyển ko tác động vào cái j đấy, chỉ có sự dịch chuyển của bản thân with trợ từ :へ
+- tác động vào vật nào đấy như ăn, học ,xem with trợ từ :を
+例：
+１）Hanoiにこうえんがありますか。
+　　はい、あります。
+　　どんなこうえんですか。
+　　きれいなこうえんです
+２）Aさん　の　まち　に　なに　が　ありますか？
+　　きょうかいが　あります。
+　　どんな　きょうかい　ですか？
+　　きれいな　きょうかい　です。
+３）わたしの　まちに　きれいな　きょうかいが　あります。
+　わたしの　まちに　ふるい　おてらが　あります。
+　わたしの　まちに　たかい　やまが　あります
+
+
+ Thời tiết ở địa điểm nào đó vào thời gian nào đó ?
+Place は　Time , A(miêu tả thời tiết)  です。
+                   
+ハノイ　は　ふゆ、　とても　さすい　です。
+
+Place で Time に  N　を　（たべます｜のみます）。  
+ベトナム、さむい　日　で　おなべ　を　たべます
